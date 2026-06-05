@@ -1,1 +1,1 @@
-export {};
+export const blah = 32;
