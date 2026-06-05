@@ -1,5 +1,5 @@
 export default {
-  entry: ['src/index.ts'],
+  entry: ['src/index.ts', 'src/browser/index.ts', 'src/express/index.ts'],
   format: ['esm', 'cjs'],
   dts: true,
   sourcemap: true,
